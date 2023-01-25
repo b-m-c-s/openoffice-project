@@ -15,7 +15,6 @@ Archive Policy](http://www.apache.org/foundation/public-archives.html)
 - [Participation Guidelines](#participation-guidelines)
 - [Users Mailing List](#users-mailing-list-public)
 - [API Mailing List](#api-mailing-list-public)
-- [Marketing Mailing List](#marketing-mailing-list-public)
 - [Announce Mailing List](#announce-mailing-list)
 - [Development Mailing List](#development-mailing-list-public)
 - [Volunteer Mailing List](#volunteer-mailing-list-public)
@@ -124,17 +123,6 @@ developing OpenOffice extensions.
 - Unsubscribe: [api-unsubscribe@openoffice.apache.org][44]
 - Apache Archives: [current][48], [legacy][46]
 - Third-party Archives: [Markmail][45], [Mail Archive][72]
-
-## Marketing Mailing List (Public)
-
-This is where the community discusses marketing, branding, communications, event
-planning and related activities.
-
-- Subscribe: [marketing-subscribe@openoffice.apache.org][7]
-- Post (after subscription): [marketing@openoffice.apache.org][8]
-- Unsubscribe: [marketing-unsubscribe@openoffice.apache.org][9]
-- Apache Archives: [current][49], [legacy][11]
-- Third-party Archives: [Markmail][10], [Mail Archive][73]
 
 ## Announce Mailing List
 
@@ -270,12 +258,6 @@ For any topic not covered by the above, send your post to: dev@openoffice.apache
   [4]:  mailto:users-unsubscribe@openoffice.apache.org
   [5]:  http://markmail.org/search/list:org.apache.incubator.ooo-users
   [6]:  http://mail-archives.apache.org/mod_mbox/incubator-ooo-users/
-
-  [7]:  mailto:marketing-subscribe@openoffice.apache.org
-  [8]:  mailto:marketing@openoffice.apache.org
-  [9]:  mailto:marketing-unsubscribe@openoffice.apache.org
-  [10]: http://markmail.org/search/list:org.apache.incubator.ooo-marketing
-  [11]: http://mail-archives.apache.org/mod_mbox/incubator-ooo-marketing/
 
   [12]: mailto:announce-subscribe@openoffice.apache.org
   [13]: mailto:announce-unsubscribe@openoffice.apache.org
